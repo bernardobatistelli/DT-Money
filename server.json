@@ -1,0 +1,92 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-10-03T12:19:05.994Z"
+    },
+    {
+      "id": 2,
+      "description": "Abri uma firma",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 9000,
+      "createdAt": "2023-10-03T12:10:05.994Z"
+    },
+    {
+      "description": "Compras",
+      "price": 30,
+      "category": "Compras",
+      "type": "outcome",
+      "createdAt": "2023-10-04T20:03:51.571Z",
+      "id": 3
+    },
+    {
+      "description": "Compras",
+      "price": 30,
+      "category": "Compras",
+      "type": "outcome",
+      "createdAt": "2023-10-04T20:03:54.240Z",
+      "id": 4
+    },
+    {
+      "description": "Compras",
+      "price": 20,
+      "category": "Compras",
+      "type": "outcome",
+      "createdAt": "2023-10-04T20:33:29.554Z",
+      "id": 5
+    },
+    {
+      "description": "Comprasasd",
+      "price": 13123,
+      "category": "1231",
+      "type": "outcome",
+      "createdAt": "2023-10-05T19:24:47.471Z",
+      "id": 6
+    },
+    {
+      "description": "awqeqwe",
+      "price": 11,
+      "category": "111",
+      "type": "income",
+      "createdAt": "2023-10-05T19:25:45.805Z",
+      "id": 7
+    },
+    {
+      "description": "123123",
+      "price": 123,
+      "category": "123",
+      "type": "income",
+      "createdAt": "2023-10-05T19:26:30.573Z",
+      "id": 8
+    },
+    {
+      "description": "asd",
+      "price": 123,
+      "category": "123",
+      "type": "income",
+      "createdAt": "2023-10-05T19:27:44.558Z",
+      "id": 9
+    },
+    {
+      "description": "asd",
+      "price": 123,
+      "category": "123",
+      "type": "income",
+      "createdAt": "2023-10-05T19:30:13.294Z",
+      "id": 10
+    },
+    {
+      "description": "Vendas",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-10-06T12:42:27.322Z",
+      "id": 11
+    }
+  ]
+}
